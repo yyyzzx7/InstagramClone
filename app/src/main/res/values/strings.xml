@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+
+<!--    Fragment names-->
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="sign_out_fragment">Sign Out</string>
+
+<!--    Firebase Database Fields-->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+
+
+</resources>
